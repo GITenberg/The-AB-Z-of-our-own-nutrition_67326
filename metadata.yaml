@@ -1,5 +1,8 @@
 _repo: The-AB-Z-of-our-own-nutrition_67326
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67326-h/images/i-cover.jpg
 creator:
   author:
     agent_name: Fletcher, Horace
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43027
     wikipedia: https://en.wikipedia.org/wiki/Horace_Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67326#The-AB-Z-of-our-own-nutrition
 gutenberg_issued: '2022-02-05'
 identifiers:
   gutenberg: '67326'
